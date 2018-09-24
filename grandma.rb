@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 def speak_to_grandma(arg)
   if arg == "I LOVE YOU GRANDMA!"
-    return "I LOVE YOU TOO, PUMPKIN!"
+    return "I LOVE YOU TOO PUMPKIN!"
   elseif arg.upcase
     return "NO, NOT SINCE 1938!"
   else
